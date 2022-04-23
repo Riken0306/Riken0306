@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Riken0306
-- 👀 I’m interested in Web Development and electronics
-- 🌱 I’m currently learning Embedded C and Next.js
-- 💞️ I’m working with www.AbhiyantaCommunity.org
-- 📫 Email me on riken0306@gmail.com
+# Hi, I'm Riken! 👋
 
-<!---
-Riken0306/Riken0306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 👀 I’m interested in Robotics, Electronics and Automation
+- 🌱 I’m currently learning Embedded C, Elixir and ROS
+- 💞️ I’m working with www.AbhiyantaCommunity.org
+
+## 🛠 Skills
+
+### Programming Languages:
+- C, C++
+- Python
+- Assembly, Embedded C
+- Ladder Logic
+- Elixir
+- JavaScript
+
+### Software Worked Upon:
+- MATLAB, Simulink
+- RsLogix 500
+- Wonderware InTouch Scada
+- Microchip Studio, Proteus
+- SciLab, Octave
+- LabVIEW
+- Phoenix Web Framework
+- React.js 
+
+### Hardware Worked Upon:
+- Raspberry Pi 3
+- ATMega32 MCU
+- Arduino UNO/MEGA
+- MPU 6050
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/riken0306/)
