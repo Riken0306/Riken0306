@@ -1,35 +1,33 @@
 # Hi, I'm Riken! 👋
 
 ## 🚀 About Me
-- 👀 I’m interested in Robotics, Electronics and Automation
-- 🌱 I’m currently learning Embedded C, Elixir and ROS
-- 💞️ I’m working with www.AbhiyantaCommunity.org
+- 👀 Embedded Software Engineer, instrested in Robotics and Embedded & Control Systems
+- 🌱 Currently learning Embedded C(BareMetal/FreeRTOS based), ROS, Linux Driver Development
+- 💞️ Working on STM32 Microcontrollers
 
 ## 🛠 Skills
 
 ### Programming Languages:
-- C, C++
+- Embedded C(Bare Metal/RTOS)
+- C++
 - Python
-- Assembly, Embedded C
-- Ladder Logic
-- Elixir
-- JavaScript
+- Elixir(Functional Programming)
 
 ### Software Worked Upon:
-- MATLAB, Simulink
-- RsLogix 500
-- Wonderware InTouch Scada
-- Microchip Studio, Proteus
-- SciLab, Octave
-- LabVIEW
+- Stm32CubeIde
+- MicrochipStudio
+- Express-idf
+- FreeRTOS
 - Phoenix Web Framework
-- React.js 
+- MATLAB, Simulink
+- SciLab, Octave
 
 ### Hardware Worked Upon:
 - Raspberry Pi 3
-- ATMega32 MCU
-- Arduino UNO/MEGA
-- MPU 6050
+- STM32F1xx,STM32F4xx
+- ATMega2560 MCU
+- ESP32, ESP8266
+- Kinco/Delta HMIs
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/riken0306/)
