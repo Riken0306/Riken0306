@@ -41,6 +41,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Riken0306&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Riken0306&theme=catppuccin_mocha&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riken0306&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![my_linux_config](https://github-readme-stats.vercel.app/api/pin/?username=Riken0306&repo=my_linux_config&theme=catppuccin_mocha)](https://github.com/Riken0306/my_linux_config)
-[![my_linux_config](https://github-readme-stats.vercel.app/api/pin/?username=Riken0306&repo=Advanced_C-CPP&theme=catppuccin_mocha)](https://github.com/Riken0306/Advanced_C-CPP)
+<br>
+[![Advanced C-CPP](https://github-readme-stats.vercel.app/api/pin/?username=Riken0306&repo=Advanced_C-CPP&theme=tokyonight)](https://github.com/Riken0306/Advanced_C-CPP)
+[![Advanced C-CPP](https://github-readme-stats.vercel.app/api/pin/?username=Riken0306&repo=my_linux_config&theme=tokyonight)](https://github.com/Riken0306/my_linux_config)
+
 
